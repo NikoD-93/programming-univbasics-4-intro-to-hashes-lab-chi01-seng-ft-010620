@@ -10,6 +10,7 @@ def my_hash
   new_my = {
     levels: 1 
   }
+  new_my
 end
 
 def pioneer
