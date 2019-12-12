@@ -13,7 +13,7 @@ end
 
 def pioneer
   who_is_grace = {
-    :name 'Grace Hopper'
+    :name => 'Grace Hopper'
   }
   who_is_grace
 end
