@@ -15,7 +15,6 @@ def pioneer
   who_is_grace = {
     :name => 'Grace Hopper'
   }
-  who_is_grace
 end
 
 def id_generator
