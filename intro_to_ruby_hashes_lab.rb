@@ -1,12 +1,10 @@
 def new_hash
-  # return an empty hash
   new_hases = {
     
   }
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
   new_my = {
     levels: 1 
   }
@@ -14,7 +12,9 @@ def my_hash
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  who_is_grace = {
+    
+  }
 end
 
 def id_generator
