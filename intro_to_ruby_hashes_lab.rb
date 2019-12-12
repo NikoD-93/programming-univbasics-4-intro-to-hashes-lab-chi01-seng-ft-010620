@@ -32,7 +32,9 @@ end
 
 def read_from_hash(hash, key)
   if hash[key]
-    puts 
+    puts hash[key]
+  else
+    puts nil 
 end
 
 def update_counting_hash(hash, key)
